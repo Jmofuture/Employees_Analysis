@@ -1,0 +1,235 @@
+"CALENDAR_YEAR","DEPT_NAME","GENDER","NUM_OF_EMPLOYEES"
+1990,Customer Service,M,434
+1990,Customer Service,F,302
+1990,Development,M,2241
+1990,Development,F,1498
+1990,Finance,M,472
+1990,Finance,F,275
+1990,Human Resources,M,451
+1990,Human Resources,F,310
+1990,Marketing,M,456
+1990,Marketing,F,284
+1990,Production,M,1808
+1990,Production,F,1253
+1990,Quality Management,M,441
+1990,Quality Management,F,304
+1990,Research,M,435
+1990,Research,F,298
+1990,Sales,M,1396
+1990,Sales,F,946
+1991,Customer Service,M,517
+1991,Customer Service,F,314
+1991,Development,M,2199
+1991,Development,F,1429
+1991,Finance,M,428
+1991,Finance,F,293
+1991,Human Resources,M,492
+1991,Human Resources,F,292
+1991,Marketing,M,489
+1991,Marketing,F,305
+1991,Production,M,1834
+1991,Production,F,1165
+1991,Quality Management,M,501
+1991,Quality Management,F,259
+1991,Research,M,497
+1991,Research,F,315
+1991,Sales,M,1338
+1991,Sales,F,883
+1992,Customer Service,M,491
+1992,Customer Service,F,324
+1992,Development,M,2354
+1992,Development,F,1566
+1992,Finance,M,460
+1992,Finance,F,305
+1992,Human Resources,M,466
+1992,Human Resources,F,295
+1992,Marketing,M,490
+1992,Marketing,F,310
+1992,Production,M,1869
+1992,Production,F,1227
+1992,Quality Management,M,458
+1992,Quality Management,F,323
+1992,Research,M,522
+1992,Research,F,303
+1992,Sales,M,1370
+1992,Sales,F,943
+1993,Customer Service,M,550
+1993,Customer Service,F,326
+1993,Development,M,2249
+1993,Development,F,1510
+1993,Finance,M,446
+1993,Finance,F,305
+1993,Human Resources,M,452
+1993,Human Resources,F,315
+1993,Marketing,M,531
+1993,Marketing,F,351
+1993,Production,M,1871
+1993,Production,F,1251
+1993,Quality Management,M,481
+1993,Quality Management,F,308
+1993,Research,M,508
+1993,Research,F,342
+1993,Sales,M,1395
+1993,Sales,F,915
+1994,Customer Service,M,538
+1994,Customer Service,F,361
+1994,Development,M,2277
+1994,Development,F,1502
+1994,Finance,M,427
+1994,Finance,F,309
+1994,Human Resources,M,504
+1994,Human Resources,F,345
+1994,Marketing,M,504
+1994,Marketing,F,337
+1994,Production,M,1799
+1994,Production,F,1236
+1994,Quality Management,M,486
+1994,Quality Management,F,342
+1994,Research,M,526
+1994,Research,F,320
+1994,Sales,M,1407
+1994,Sales,F,967
+1995,Customer Service,M,562
+1995,Customer Service,F,377
+1995,Development,M,2324
+1995,Development,F,1506
+1995,Finance,M,474
+1995,Finance,F,325
+1995,Human Resources,M,486
+1995,Human Resources,F,338
+1995,Marketing,M,503
+1995,Marketing,F,293
+1995,Production,M,1898
+1995,Production,F,1281
+1995,Quality Management,M,485
+1995,Quality Management,F,341
+1995,Research,M,499
+1995,Research,F,330
+1995,Sales,M,1392
+1995,Sales,F,943
+1996,Customer Service,M,588
+1996,Customer Service,F,409
+1996,Development,M,2273
+1996,Development,F,1580
+1996,Finance,M,486
+1996,Finance,F,308
+1996,Human Resources,M,512
+1996,Human Resources,F,314
+1996,Marketing,M,468
+1996,Marketing,F,367
+1996,Production,M,1944
+1996,Production,F,1294
+1996,Quality Management,M,584
+1996,Quality Management,F,353
+1996,Research,M,580
+1996,Research,F,346
+1996,Sales,M,1383
+1996,Sales,F,844
+1997,Customer Service,M,657
+1997,Customer Service,F,413
+1997,Development,M,2359
+1997,Development,F,1500
+1997,Finance,M,460
+1997,Finance,F,314
+1997,Human Resources,M,479
+1997,Human Resources,F,281
+1997,Marketing,M,543
+1997,Marketing,F,329
+1997,Production,M,1984
+1997,Production,F,1327
+1997,Quality Management,M,526
+1997,Quality Management,F,357
+1997,Research,M,580
+1997,Research,F,370
+1997,Sales,M,1342
+1997,Sales,F,904
+1998,Customer Service,M,685
+1998,Customer Service,F,449
+1998,Development,M,2293
+1998,Development,F,1521
+1998,Finance,M,445
+1998,Finance,F,302
+1998,Human Resources,M,448
+1998,Human Resources,F,319
+1998,Marketing,M,579
+1998,Marketing,F,399
+1998,Production,M,1956
+1998,Production,F,1320
+1998,Quality Management,M,593
+1998,Quality Management,F,385
+1998,Research,M,555
+1998,Research,F,399
+1998,Sales,M,1375
+1998,Sales,F,936
+1999,Customer Service,M,680
+1999,Customer Service,F,474
+1999,Development,M,2291
+1999,Development,F,1484
+1999,Finance,M,452
+1999,Finance,F,303
+1999,Human Resources,M,490
+1999,Human Resources,F,303
+1999,Marketing,M,589
+1999,Marketing,F,396
+1999,Production,M,2021
+1999,Production,F,1355
+1999,Quality Management,M,576
+1999,Quality Management,F,381
+1999,Research,M,631
+1999,Research,F,411
+1999,Sales,M,1469
+1999,Sales,F,969
+2000,Customer Service,M,293
+2000,Customer Service,F,189
+2000,Development,M,303
+2000,Development,F,208
+2000,Finance,M,74
+2000,Finance,F,42
+2000,Human Resources,M,71
+2000,Human Resources,F,51
+2000,Marketing,M,162
+2000,Marketing,F,141
+2000,Production,M,433
+2000,Production,F,276
+2000,Quality Management,M,165
+2000,Quality Management,F,120
+2000,Research,M,213
+2000,Research,F,136
+2000,Sales,M,182
+2000,Sales,F,124
+2001,Customer Service,M,259
+2001,Customer Service,F,180
+2001,Development,M,103
+2001,Development,F,65
+2001,Finance,M,27
+2001,Finance,F,17
+2001,Human Resources,M,20
+2001,Human Resources,F,22
+2001,Marketing,M,136
+2001,Marketing,F,95
+2001,Production,M,270
+2001,Production,F,160
+2001,Quality Management,M,104
+2001,Quality Management,F,82
+2001,Research,M,163
+2001,Research,F,107
+2001,Sales,M,71
+2001,Sales,F,37
+2002,Customer Service,M,161
+2002,Customer Service,F,86
+2002,Development,M,48
+2002,Development,F,29
+2002,Finance,M,15
+2002,Finance,F,15
+2002,Human Resources,M,14
+2002,Human Resources,F,14
+2002,Marketing,M,78
+2002,Marketing,F,50
+2002,Production,M,157
+2002,Production,F,88
+2002,Quality Management,M,70
+2002,Quality Management,F,50
+2002,Research,M,91
+2002,Research,F,58
+2002,Sales,M,34
+2002,Sales,F,24
