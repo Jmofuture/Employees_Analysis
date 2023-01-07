@@ -9,4 +9,7 @@ Bienvenidos al repositorio de análisis de empleados. En este repositorio encont
 
 Para utilizar este repositorio, primero debes tener MySQL instalado en tu equipo.
 
+Para clonar este repositorio, debes tener Git instalado en tu equipo. Luego, abre una terminal y navega hasta la carpeta donde quieres clonar el repositorio. Una vez allí, ejecuta el siguiente comando:
 
+
+<code>git clone https://github.com/Jmofuture/Employees_Analysis.git</code>
