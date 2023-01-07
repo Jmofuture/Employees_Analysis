@@ -22,3 +22,6 @@ Para hacer un "fork" del repositorio, debes seguir estos pasos:
 * Selecciona tu cuenta de GitHub como la ubicación del nuevo repositorio.
 * Haz clic en el botón "Fork repository".
 * Esto creará una copia del repositorio en tu cuenta de GitHub y te redirigirá a la página del nuevo repositorio. A partir de ahí, puedes clonar el repositorio a tu equipo local y empezar a trabajar en él.
+
+
+**Nota:** Los usuarios son libres de usar los datos y los scripts de este repositorio para fines de práctica y aprendizaje.
